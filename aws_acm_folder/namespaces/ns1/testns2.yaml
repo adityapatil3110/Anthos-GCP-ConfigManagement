@@ -1,5 +1,4 @@
 ---
 apiVersion: v1
 kind: Namespace
-source: namespaces/ns1/testns2.yaml
 metadata.name: ns1
