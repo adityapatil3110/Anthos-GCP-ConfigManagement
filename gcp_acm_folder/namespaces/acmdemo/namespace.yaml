@@ -1,9 +1,9 @@
 ---
-source: namespaces/acmdemo/namespace.yaml
-metadata.name: acm-demo
-group:
 apiVersion: v1
 kind: Namespace
+source: namespaces/acmdemo/namespace.yaml
+metadata.name: acm-demo
+group: 
 #apiVersion: v1
 #kind: Namespace
 #metadata:
